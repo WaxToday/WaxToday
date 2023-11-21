@@ -11,6 +11,6 @@
 
 ### 项目列表
 
-#### AccountCreate
+#### [AccountCreate](https://github.com/WaxToday/AccountCreate)
 
 一个方便渗透测试环节生成账号字典的工具 
