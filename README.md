@@ -10,6 +10,8 @@
 
 欢迎关注，不定期会发布一些自己写的工具、文章，也欢迎指正错误和技术交流
 
+不卖课！！不割韭菜！！
+
 ### 项目列表
 
 #### [AccountCreate](https://github.com/WaxToday/AccountCreate)
