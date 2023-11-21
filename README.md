@@ -8,7 +8,7 @@
 
 ![公众号二维码](https://raw.githubusercontent.com/WaxToday/WaxToday/main/mp_qrcode.jpg)
 
-欢迎关注，不定期会发布一些自己写的工具、文章，也欢迎指正错误和技术交流
+欢迎关注，不定期会发布一些自己写的工具和网络安全、开发方面的文章，也欢迎指正错误和技术交流
 
 不卖课！！不割韭菜！！
 
