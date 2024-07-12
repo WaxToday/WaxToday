@@ -17,3 +17,11 @@
 #### [AccountCreate](https://github.com/WaxToday/AccountCreate)
 
 一个方便渗透测试环节生成账号字典的工具 
+
+#### [AttackDictionary](https://github.com/WaxToday/AttackDictionary)
+
+自用的字典，想起来了更新一下
+
+#### [EasyBuild](https://github.com/WaxToday/EasyBuild)
+
+便捷交叉编译golang文件
