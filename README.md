@@ -4,7 +4,7 @@
 - 🏠网址：https://wax.today
 - 📧邮箱：github#wax.today（#替换为@）
 - 📝公众号：Wax Today（微信号：Wax_Today）
-- 🚀国内镜像：[Wax`s Gitee](https://gitee.com/WaxToday)
+- 🚀国内镜像：~~[Wax`s Gitee](https://gitee.com/WaxToday)~~（密码忘了）
 
 ![公众号二维码](https://raw.githubusercontent.com/WaxToday/WaxToday/main/mp_qrcode.jpg)
 
